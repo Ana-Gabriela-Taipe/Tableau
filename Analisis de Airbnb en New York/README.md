@@ -1,1 +1,1 @@
-cfd
+El documento en pdf "Analisis de Airbnb en New York" contiene una vista previa del Informe desarrollado en Tableau y los documentos "W3 Airbnb listings" y "W3 Airbnb reviews" contiene la fuente de datos.
